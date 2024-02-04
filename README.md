@@ -5,7 +5,7 @@
 
 <img src="./public/website.png" alt="image"/>
 
-<p>For backend githurepo of this website, visit this <a href="https://github.com/Manish03Singh/ImageGenerationBackend">link</a></p>
+<p>For backend github repo of this website, visit this <a href="https://github.com/Manish03Singh/ImageGenerationBackend">link</a></p>
 
 # Features
 
