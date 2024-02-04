@@ -20,4 +20,5 @@
 <p>View the generated image and, if satisfied, share it with the community.</p>
 <p>Community members can view your shared images and download it.</p>
 
+# Connect
 <p>Visit me on <a href="https://www.linkedin.com/in/manish-kumar-singh-12a28a190/">linkedin</a> and <a href="https://twitter.com/Manish_03_Singh">twitter</a></p>
