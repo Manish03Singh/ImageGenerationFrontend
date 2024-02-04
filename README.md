@@ -18,6 +18,6 @@
 <p>Enter a prompt or a description in the input field.</p>
 <p>Click the "Generate" button to create an image based on your prompt.</p>
 <p>View the generated image and, if satisfied, share it with the community.</p>
-<p>Community members can view your shared images.</p>
+<p>Community members can view your shared images and download it.</p>
 
 <p>Visit me on <a href="https://www.linkedin.com/in/manish-kumar-singh-12a28a190/">linkedin</a> and <a href="https://twitter.com/Manish_03_Singh">twitter</a></p>
